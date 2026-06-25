@@ -1,16 +1,44 @@
-# React + Vite
+# 🛒 E-commerce Web App (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive e-commerce web application built using React and Vite.  
+It provides a smooth shopping experience with product browsing, cart management, and checkout flow.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
+- Product listing with categories
+- Search and filter functionality
+- Add to cart with quantity update
+- Shopping cart page with total calculation
+- Checkout flow simulation
+- Product details modal
+- Toast notifications for actions
+- Fully responsive UI
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+https://rad-meerkat-440dad.netlify.app/
+
+---
+
+## 📁 Project Setup
+
+```bash
+npm install
+npm run dev
+
+Purpose
+
+This project was built to strengthen frontend development skills and demonstrate real-world ecommerce UI/UX implementation.
+
+👩‍💻 Developer
+Juhi Gupta
