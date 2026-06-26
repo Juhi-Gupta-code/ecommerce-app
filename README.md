@@ -25,8 +25,10 @@ It provides a smooth shopping experience with product browsing, cart management,
 
 ---
 
-## 🌐 Live Demo
-https://rad-meerkat-440dad.netlify.app/
+## Live Demo
+
+- 🌐 Live Website: https://juhi-ecommerce-store.netlify.app/
+- 💻 Source Code: https://github.com/Juhi-Gupta-code/ecommerce-app
 
 ---
 
